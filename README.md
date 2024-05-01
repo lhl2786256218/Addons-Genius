@@ -3,7 +3,7 @@
   - 本次更新我们弃用了C++作为源代码继而我们使用了更为方便的Python，以及对大多数插件实现了一键静默安装。
   - 老版的Addons Genius所在的仓库我们依然开启但不再维护，旧版位置https://github.com/lhl2786256218/Addons-Genius_older
   - 后期所有软件更新都将更新到当前的仓库
-
+  - 项目正在测试如果有任何bug请联系我 微:zpauteamcodestorm0 email:2786256218@qq.com
 # 插件网盘下载地址:
   - 百度网盘链接：https://pan.baidu.com/s/1p29ebBdbmsnXxUCawPpTcA?pwd=8888 
   - 提取码：8888
